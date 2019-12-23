@@ -1,12 +1,12 @@
 # PyBer_Analysis
-Analysis of Ridesharing Data through May 2019
+This analysis looked at ride sharing data across multiple cities within which PyBer operates. The data came in the form of 2 CVS files providing 4 months of data. The data contained information on rides, drivers, fares, cities, and type of city (Urban, Suburban, and Rural). 
 
-# Project Description
-As a new Data Analyst with PyBer, you have been asked to analyze ridesharing data and present insights on underserved markets, pricing analysis etc. This data will be presented in a report visually to the CEO of the company. 
+A full analysis complete with graphs, plots, and summary tables is contained in the pdf file contained in this repository titled PyBer Ride Share Analysis, including Challenge 5.  
 
 # Resources
 * Python 3.6 and Jupyter Notebook IDE
 * Python Panda, Sci, Numby, Matlibplot
-* Data files XXXXX
+* Data files city_data.cvs
+* Data files ride_data.cvs
 
-# Questions to Answer
+
