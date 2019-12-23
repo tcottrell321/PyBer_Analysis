@@ -6,7 +6,7 @@ A full analysis complete with graphs, plots, and summary tables is contained in 
 # Resources
 * Python 3.6 and Jupyter Notebook IDE
 * Python Panda, Sci, Numby, Matlibplot
-* Data files city_data.cvs
-* Data files ride_data.cvs
+* Data files city_data.csv
+* Data files ride_data.csv
 
 
